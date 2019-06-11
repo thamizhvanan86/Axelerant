@@ -19,3 +19,11 @@ created a new menu as /nodevalidate/{key}/{nid} to return json object
 * if key matches but node id is wrong, it will respond as 'not a node'
 * if key and node both matches, it will respond json object of the node.
 
+for url demo, check below URL
+http://localhost/axelerant/nodevalidate/{key}/{nid}
+Note: Key is the combination of text and numbers. The text field value in the site configuration page is the key.
+nid: This is the node value created.
+
+Node URL : http://localhost/axelerant/nodevalidate/Axe1erant234/1 (Works only when node 1 is created).
+Access denied URL : http://localhost/axelerant/nodevalidate/Axe1erant1234/1
+Not a Node URL : http://localhost/axelerant/nodevalidate/Axe1erant1234/2
