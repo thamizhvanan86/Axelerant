@@ -33,3 +33,11 @@ Node URL : http://localhost/axelerant/nodevalidate/Axe1erant234/1 (Works only wh
 Access denied URL : http://localhost/axelerant/nodevalidate/Axe1erant1234/1
 
 Not a Node URL : http://localhost/axelerant/nodevalidate/Axe1erant1234/2
+
+List of Resource used:
+
+https://www.drupal.org/docs/8/api
+https://stackoverflow.com/
+https://www.ostraining.com
+
+Total hours spend on the task : 3hrs.
